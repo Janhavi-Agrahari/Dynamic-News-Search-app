@@ -1,3 +1,5 @@
+<img src="Screenshot 2024-06-24 211257.png">
+
 # Dynamic News Search App
 
 This is a dynamic news search application built with HTML, CSS, and JavaScript. The app fetches news data from an API and displays it to the user. AJAX is used to handle the API requests and update the UI dynamically.
